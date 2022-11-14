@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praviny7278
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on  ... some engineers or devloper
 - 📫 How to reach me ... praviny408@gmail.com
 
