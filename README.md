@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praviny7278
+- 👋 Hi, I’m @pravin
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on  ... some engineers or devloper
