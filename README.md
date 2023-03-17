@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pravin
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... javascript
+- 🌱 I’m currently learning ... javascript, HTML, CSS, JAVA
 - 💞️ I’m looking to collaborate on  ... some engineers or devloper
 - 📫 How to reach me ... praviny408@gmail.com
 
